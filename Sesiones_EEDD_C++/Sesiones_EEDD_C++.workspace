@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Sesión1Documents" Database="" Version="10000">
+  <Project Name="Ses1Ej1" Path="Ejemplo1/Ejemplo1.project" Active="No"/>
+  <Project Name="Ses1Ej2" Path="Ejemplo2/Ejemplo2.project" Active="No"/>
+  <Project Name="Ses1Ej3" Path="Ejemplo3/Ejemplo3.project" Active="No"/>
+  <Project Name="Ses1Ej4" Path="Ejemplo4/Ejemplo4.project" Active="No"/>
+  <Project Name="Ses1Ej5" Path="Ejemplo5/Ejemplo5.project" Active="Yes"/>
+  <Project Name="Ses1Ej6" Path="Ejemplo6/Ejemplo6.project" Active="No"/>
+  <Project Name="Ses1Ej7" Path="Ejemplo7/Ejemplo7.project" Active="No"/>
+  <Project Name="Ses1Ej8" Path="Ejemplo8/Ejemplo8.project" Active="No"/>
+  <Project Name="Ses2PasoRef" Path="Ses2PasoRef/Ses2PasoRef.project"/>
+  <Project Name="Ses2PasoArg" Path="Ses2PasoArg/Ses2PasoArg.project"/>
+  <Project Name="Ses2Ej9" Path="Ses2Ej9/Ses2Ej9.project"/>
+  <Project Name="Ses2Ej10" Path="Ses2Ej10/Ses2Ej10.project"/>
+  <Project Name="Ses2Ej11" Path="Ses2Ej11/Ses2Ej11.project"/>
+  <Project Name="Ses2Ej12" Path="Ses2Ej12/Ses2Ej12.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Ses1Ej1" ConfigName="Debug"/>
+      <Project Name="Ses1Ej2" ConfigName="Debug"/>
+      <Project Name="Ses1Ej3" ConfigName="Debug"/>
+      <Project Name="Ses1Ej4" ConfigName="Debug"/>
+      <Project Name="Ses1Ej5" ConfigName="Debug"/>
+      <Project Name="Ses1Ej6" ConfigName="Debug"/>
+      <Project Name="Ses1Ej7" ConfigName="Debug"/>
+      <Project Name="Ses1Ej8" ConfigName="Debug"/>
+      <Project Name="Ses2PasoRef" ConfigName="Debug"/>
+      <Project Name="Ses2PasoArg" ConfigName="Debug"/>
+      <Project Name="Ses2Ej9" ConfigName="Debug"/>
+      <Project Name="Ses2Ej10" ConfigName="Debug"/>
+      <Project Name="Ses2Ej11" ConfigName="Debug"/>
+      <Project Name="Ses2Ej12" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Ses1Ej1" ConfigName="Release"/>
+      <Project Name="Ses1Ej2" ConfigName="Release"/>
+      <Project Name="Ses1Ej3" ConfigName="Release"/>
+      <Project Name="Ses1Ej4" ConfigName="Release"/>
+      <Project Name="Ses1Ej5" ConfigName="Release"/>
+      <Project Name="Ses1Ej6" ConfigName="Release"/>
+      <Project Name="Ses1Ej7" ConfigName="Release"/>
+      <Project Name="Ses1Ej8" ConfigName="Release"/>
+      <Project Name="Ses2PasoRef" ConfigName="Release"/>
+      <Project Name="Ses2PasoArg" ConfigName="Release"/>
+      <Project Name="Ses2Ej9" ConfigName="Release"/>
+      <Project Name="Ses2Ej10" ConfigName="Release"/>
+      <Project Name="Ses2Ej11" ConfigName="Release"/>
+      <Project Name="Ses2Ej12" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
