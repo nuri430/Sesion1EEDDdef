@@ -1,0 +1,109 @@
+[{
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej12\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej12",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej12\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.hpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.hpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.hpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.hpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Pilas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej11\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej11",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej11\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoArg\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoArg",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoArg\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoArg\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoRef\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoRef",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoRef\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2PasoRef\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo8\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo8",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo8\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo8\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo5\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo5",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo5\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.hpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.hpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.hpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.hpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Colas\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo6\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo6",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo6\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo2\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo2",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo2\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo2\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo4\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo4",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo4\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo4\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo3\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo3",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo3\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej10\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej10",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej10\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej9\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej9",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej9\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses2Ej9\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.hpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.hpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ses3Ej13\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo7\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo7",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo7\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo7\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo1\\main.cpp",
+  "directory": "C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo1",
+  "command": "clang++ -c C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo1\\main.cpp -o C:\\Users\\nuria\\Documents\\Sesiones_EEDD_C++(3)\\Ejemplo1\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
